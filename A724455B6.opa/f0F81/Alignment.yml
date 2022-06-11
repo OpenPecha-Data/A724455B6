@@ -1,0 +1,25 @@
+segment_sources:
+  I7E5EB56E:
+    type: origin_type
+    relation: translation
+    language: en
+  ID902AA9A:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  05b4bafb4ccf4577b27121aa391e1c1b:
+    I7E5EB56E: b6dd7e25df0e4bddaa19523527ec411d
+    ID902AA9A: 449541c57ed741ffa3b7ca4b1f0438e0
+  63bc362c9348446b8c5bbb9406e982af:
+    I7E5EB56E: 7a5721746ef049cdb2cc58ebceca62b4
+    ID902AA9A: 13e2923d87aa41b385f7713f740bdffa
+  59d48d309720427780e54a8bb7cccc24:
+    I7E5EB56E: 0226a2aaf0ab4f0c945fcf1a695d6643
+    ID902AA9A: 51420343a9624f5db06350afab81e429
+  51098979ac654edfa1caea20709ac7e9:
+    I7E5EB56E: 52abf9eb33b5408da1744bf6f14422e5
+    ID902AA9A: b7c4cd788ce24b2786fedb89f38b79cb
+  9cd1bc85fcee4393a1637302c7e738a2:
+    I7E5EB56E: 8fa019e305c147c883a02725b166802f
+    ID902AA9A: cb06014bba5743ce855cdbde19ba6a7b

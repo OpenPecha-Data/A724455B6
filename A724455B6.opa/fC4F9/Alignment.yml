@@ -1,0 +1,19 @@
+segment_sources:
+  I7E5EB56E:
+    type: origin_type
+    relation: translation
+    language: en
+  ID902AA9A:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  7ef186e0354747fc8760f029a6fd3ead:
+    I7E5EB56E: 04d2d0461b5a47258264120789f931be
+    ID902AA9A: 685764b8e76a46fbb683f39a1338a845
+  f699ee4253144dbdabcecfbe68f37ba0:
+    I7E5EB56E: cc5dffe95b8d49709e61a8ba56fbacac
+    ID902AA9A: 10fe521597104fcc8e08ddfaa41ecbbc
+  1b08244de6944ce9988c66176abdea00:
+    I7E5EB56E: fe34e9757757483a8f3e08e08c4fac78
+    ID902AA9A: 5cffa4ca24e347cbaf43fc7e866f7c6c
